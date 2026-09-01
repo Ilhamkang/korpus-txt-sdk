@@ -1,14 +1,13 @@
 # === METADATA NASKAH ===
-# ID          : SK-002
+# ID          : SK-KKT
 # Judul       : Kavih Katanian
 # Koleksi     : Kabuyutan Ciburuy
-# Sumber      : Lontar cb.125.i.24
+# Sumber      : Lontar CB.125.i.24
 # Bahasa      : Sunda Kuna
 # Aksara      : Sunda Kuna
 # Pengolah    : Ilham Nurwansah
 # Transliterasi: Transliterasi
-# Lisensi     : -
-# Tanggal     : tanggal
+# Tanggal     : 9-9-2019
 # === ISI TRANSKRIPSI ===
 
 1a

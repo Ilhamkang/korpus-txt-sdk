@@ -1,5 +1,5 @@
 # === METADATA NASKAH ===
-# ID          : SK-001
+# ID          : SK-BMK
 # Judul       : Bujangga Manik
 # Koleksi     : Bodleian Library
 # Sumber      : Lontar Bodleian Library
@@ -7,9 +7,10 @@
 # Aksara      : Sunda Kuna
 # Pengolah    : Ilham Nurwansah
 # Transliterasi: Noorduyn & Teeuw (2006)
-# Lisensi     : -
-# Tanggal     : 2024-05-10
+# Pembaruan    : 2024-05-10
 # === ISI TRANSKRIPSI ===
+
+
 Saur saṅ mahapandita:	Sәoraṅ mahapandita bәrkata:
 	‘Kumaha girita ini?	‘Mәṅapa ini mәṅgәmparkan?
 	Mana sinariәn tәiṅ	Tidak sәpәrti biasaña

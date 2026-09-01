@@ -1,11 +1,15 @@
 # === METADATA NASKAH ===
-# ID          : SK-KAVPANG
-# Judul       : Kawih Paṅәyәkan
-# Koleksi     : Sunda Kuna (Kairaga.com)
-# Pengolah    : Aditia Gunawan & Ilham Nurwansah
+# ID          : KvPaṅ
+# Judul       : Kawih Paṅəyəkan
+# Koleksi     : Perpusnas RI
+# Sumber      : L 407
 # Bahasa      : Sunda Kuna
 # Aksara      : Sunda Kuna
+# Pengolah    : Ilham Nurwansah
+# Transliterasi: Mamat Ruhimat, Tien Wartini, Aditia Gunawan (2011)
+# Pembaruan    : 2025-09-01
 # === ISI TRANSKRIPSI ===
+
 <kavpaṅ.1> pinәh sarәrәh nәt hudaṅ,
 <kavpaṅ.2> dipәrәmkәn hantә bәnaṅ,
 <kavpaṅ.3> rәvas ku impian aiṅ,
