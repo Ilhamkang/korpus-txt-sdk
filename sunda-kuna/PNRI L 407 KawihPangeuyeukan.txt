@@ -1,0 +1,583 @@
+# === METADATA NASKAH ===
+# ID          : SK-KAVPANG
+# Judul       : Kawih Paṅәyәkan
+# Koleksi     : Sunda Kuna (Kairaga.com)
+# Pengolah    : Aditia Gunawan & Ilham Nurwansah
+# Bahasa      : Sunda Kuna
+# Aksara      : Sunda Kuna
+# === ISI TRANSKRIPSI ===
+<kavpaṅ.1> pinәh sarәrәh nәt hudaṅ,
+<kavpaṅ.2> dipәrәmkәn hantә bәnaṅ,
+<kavpaṅ.3> rәvas ku impian aiṅ,
+<kavpaṅ.4> na naha eta ṅaranna?
+<kavpaṅ.5> carek di jәro @impian{@em: ipian},
+<kavpaṅ.6> sada @cuhcur{@nsk: cucur} midaṅ bulan,
+<kavpaṅ.7> sada carәh ṅahaleraṅ,
+<kavpaṅ.8> sada valik di na naṅsi.
+<kavpaṅ.9> sada poneh di kiravay,
+<kavpaṅ.10> sada coṅcoraṅ di raṅraṅ,
+<kavpaṅ.11> sada titiran disada,
+<kavpaṅ.12> sada taliktikan bumi.
+<kavpaṅ.13> sada abah kaaṅinkәn,
+<kavpaṅ.14> sada calintuh di @añjuṅ{@nsk: ajuṅ},
+<kavpaṅ.15> sada gobeṅ ta di @reṅkeṅ{@nsk: rekeṅ},
+<kavpaṅ.16> sada kumbaṅ ta di @ranjaṅ{@nsk: rajaṅ}.
+<kavpaṅ.17> sada kacapi di bumi,
+<kavpaṅ.18> ditabәh di maṅguṅ @ranjaṅ{@nsk: rajaṅ},
+<kavpaṅ.19> sada kurayvas di koboṅ,
+<kavpaṅ.20> ṅaluṅ @ṅantuk{@nsk: ṅatuk} sada manuk papalatuk.
+<kavpaṅ.21> ṅarәṅrәik sada rәṅit,
+<kavpaṅ.22> ṅәikna sada ṅarihit,
+<kavpaṅ.23> sorana di avaṅ-avaṅ, /2r/
+<kavpaṅ.24> sada sasora di gәsan.
+<kavpaṅ.25> sada sora @{@nsk: [ha]} di ravayan,
+<kavpaṅ.26> di @handap{@nsk: hadap} sada di maṅguṅ,
+<kavpaṅ.27> di maṅguṅ sada di @handap{@nsk: hadap},
+<kavpaṅ.28> ṅәik sada banaspati.
+<kavpaṅ.29> gurilap rijәp ñah @bәnta{@nsk: bәta}.
+<kavpaṅ.30> nәt hudaṅ milәpas majәn,
+<kavpaṅ.31> ṅagapay na taṅan @kenca{@nsk: keca},
+<kavpaṅ.32> kacokot tuaṅ pinarәp.
+<kavpaṅ.33> @adiing{@nsk: adi[an]iṅ} dәvi rasa tәiṅ,
+<kavpaṅ.34> sakean adi laraṅan,
+<kavpaṅ.35> tәhәrna /2v/ ṅalahun tinun.
+<kavpaṅ.36> saur raden jayakәliṅ,
+<kavpaṅ.37> “gandeṅ aiṅ ku nu cәrik.
+<kavpaṅ.38> eten adiiṅ @sumaṅәrtәiṅ{@nsk: sumaṅәr tәi(ṅ)}?
+<kavpaṅ.39> hadi dәvi @rasatәiṅ{@nsk: rasa tәi(ṅ)},
+<kavpaṅ.40> sakean adi laraṅan,
+<kavpaṅ.41> dara cәrik diuk diña!
+<kavpaṅ.42> ka dini aiṅ ṅalahun,
+<kavpaṅ.43> cәrik di lahunan @aiṅ{@nsk: ai(ṅ)}!
+<kavpaṅ.44> heman ku na kauvaan,
+<kavpaṅ.45> nu imut sariga ratu,
+<kavpaṅ.46> nu gәlis/5r/ sariga haji.
+<kavpaṅ.47> na naha lunas na cәrik?
+<kavpaṅ.48> mana sakit pәrih tәiṅ?
+<kavpaṅ.49> cipanon gәra cәcәpan,
+<kavpaṅ.50> mulah dimaṅka rambisak.
+<kavpaṅ.51> kana pinarәp laliṅa.
+<kavpaṅ.52> @{@nsk: [tәhәr baha rә]}
+<kavpaṅ.53> rambut @panjaṅ{@nsk: pajaṅ} ta gәluṅan,
+<kavpaṅ.54> mulah dimaṅka @ṅarunday{@nsk: ṅaruday}!
+<kavpaṅ.55> pinarәp bәnәr abәnan,
+<kavpaṅ.56> mulah dimaṅka cugәnaṅ,
+<kavpaṅ.57> tapih beet @ta{@nsk: (t)a} @bәntenan{@nsk: bәtenan},
+<kavpaṅ.58> ta/5v/pih luar maṅka libar,
+<kavpaṅ.59> piṅpiṅ koneṅ ta bunian
+<kavpaṅ.60> mulah dimaṅka tamboler!”
+<kavpaṅ.61> “eten @adiiṅ{@nsk: adii(ṅ)} sumaṅәr tәiṅ,
+<kavpaṅ.62> hadi dәvi @rasa{@nsk: ras(a)} tәiṅ,
+<kavpaṅ.63> sakean adi laraṅan,
+<kavpaṅ.64> na naha lunas na naṅis?
+<kavpaṅ.65> mana mobor na @cipanon{@nsk: cipano(n)}?
+<kavpaṅ.66> ṅadanur kana @papasuṅ{@nsk: papasu(ṅ)},
+<kavpaṅ.67> ṅaracak kana keṅkeraṅ,
+<kavpaṅ.68> tuluy niṅgaṅ ka lahunan,
+<kavpaṅ.69> ñәrәp /4r/ ka sәlaniṅ @payuṅ{@nsk: payu[ṅ]},
+<kavpaṅ.70> ka dasariṅ @pәrәtivi{@nsk: p(ә)rәtivi}.”
+<kavpaṅ.71> na rua tәhәr barәbә,
+<kavpaṅ.72> tәhәr nu @ṅalahun{@nsk: ṅalahu(n)} tinun.
+<kavpaṅ.73> tinun @sindur{@nsk: si(n)dur} sutra manik, @{@nsk: [dikuruṅәn]}
+<kavpaṅ.74> milusian dasar bәrәm,
+<kavpaṅ.75> dipakanan mirah cina,
+<kavpaṅ.76> disisian ku bañu mas,
+<kavpaṅ.77> mituṅtuṅ na kuvuṅ-kuvuṅ,
+<kavpaṅ.78> misisi na @kutumbiri{@nsk: kutu(m)biri},
+<kavpaṅ.79> di tәṅah asri bvana.
+<kavpaṅ.80> bәbәrna cacaritaan,
+<kavpaṅ.81> carita sutra hantara,
+<kavpaṅ.82> dadu /4v/ na dadu maṅgala, @{@nsk: [e maṅga e sutra]}
+<kavpaṅ.83> susulaman tutulisan,
+<kavpaṅ.84> dipakanan mirah @cina{@nsk: (cina)},
+<kavpaṅ.85> disisian asri naga,
+<kavpaṅ.86> pabәlit dәṅ barayana,
+<kavpaṅ.87> marәbutkәn siṅa patra.
+<kavpaṅ.88> puyuh ṅuṅkuṅ di huluәn,
+<kavpaṅ.89> mәrak simpir tan na padu,
+<kavpaṅ.90> diṅaran nambi humәtәr,
+<kavpaṅ.91> @{@nsk: [nu]} mituṅtuṅ majәti kәmbaṅ,
+<kavpaṅ.92> eta nu ṅasri bvana.
+<kavpaṅ.93> bәnaṅ ṅusap ku ha /3r/remas,
+<kavpaṅ.94> diṅaran taluki vayaṅ,
+<kavpaṅ.95> disәlaṅ saca devaṅga,
+<kavpaṅ.96> eta ṅaran milaṅә cina.
+<kavpaṅ.97> “@eten{@nsk: e(ten)} @adiiṅ{@nsk: adii(ṅ)} sumaṅәr tәiṅ?
+<kavpaṅ.98> @tinun{@nsk: tinun[a]} dara diaṅgәskәn!
+<kavpaṅ.99> kena rea na @rancana{@nsk: ra(n)cana}.
+<kavpaṅ.100> @bancana{@nsk: ba(n)cana} sapoyan aiṅ.
+<kavpaṅ.101> @{@nsk: [na]} los ta gәra nu ka cai!
+<kavpaṅ.102> gәra nu diaṅir @mandi{@nsk: ma(n)di},
+<kavpaṅ.103> @mesek{@nsk: mesek[an]} @ṅabrәseka{@nsk: ṅabrәseka[an]} maneh,
+<kavpaṅ.104> 1ṅaruru dimaṅka kabeh. /3v/
+<kavpaṅ.105> pamorocan dasa kalesa.”
+<kavpaṅ.105a> @{@nsk: [iṅaṅ na i pakәn. paginata]}
+<kavpaṅ.106> ṅarәṅә saur sakitu,
+<kavpaṅ.107> taan dәvi rasa tәiṅ,
+<kavpaṅ.108> sakean adi laraṅan,
+<kavpaṅ.109> dipaut tali caorna,
+<kavpaṅ.110> lugay kәdalan ti dampal.
+<kavpaṅ.115> diri hapit tina piṅpiṅ,
+<kavpaṅ.116> tinun tuluy dilulunkәn.
+<kavpaṅ.117> ṅagapay na taṅan katuhu,
+<kavpaṅ.118> ṅaravu kanteh pa /8r/mulu,
+<kavpaṅ.119> dәṅ ulakan lima vәlas,
+<kavpaṅ.120> @ditәndәn{@nsk: ditә(n)dәn} ka pisәrәṅan.
+<kavpaṅ.121> ayәna bәtәṅ @ñaṅhujar{@nsk: ñaṅhu(n)jar}.
+<kavpaṅ.122> emok tәhәr @dikaremboṅ{@nsk: dikare(m)boṅ},
+<kavpaṅ.123> avak dipasaṅgirikәn,
+<kavpaṅ.124> da @endah{@nsk: e(n)dah} tәka @rancana{@nsk: ra(n)cana},
+<kavpaṅ.125> na ruva asri muliya.
+<kavpaṅ.126> ja ñaho di maneh opoy,
+<kavpaṅ.127> umum bakti ka salaki.
+<kavpaṅ.128> eta turutanәn uraṅ,
+<kavpaṅ.129> nu vatәk tustu dilaki, /8v/
+<kavpaṅ.130> sakәdәṅ bәnaṅ ditәrәs.
+<kavpaṅ.131> sakәdap bәnaṅ diparas,
+<kavpaṅ.132> tәmu ku rasa soraṅan.
+<kavpaṅ.133> sahur dәvi rasa tәiṅ
+<kavpaṅ.134> sakean adi laraṅan,
+<kavpaṅ.135> “guru @lancәkiṅ{@nsk: la(n)cәkiṅ} sumaṅәr,
+<kavpaṅ.136> @adirasa{@nsk: (a)dirasa} jayakәliṅ.
+<kavpaṅ.137> samapun @palalunkәnәn{@nsk: palalunkәn(әn)},
+<kavpaṅ.138> @manaiṅ{@nsk: manai(ṅ)} cәrik janari,
+<kavpaṅ.139> @midaṅdam{@nsk: mida(ṅ)dam} sabuka siaṅ,
+<kavpaṅ.140> ñaṅә tә bәnaṅ nimatәn.
+<kavpaṅ.141> na mikәn devata әyәk,
+<kavpaṅ.142> @aiṅ{@nsk: ai(ṅ)} teh @menta{@nsk: me(n)ta} dipagahan.” /7r/
+<kavpaṅ.143> “eten adiiṅ sumaṅәr tәiṅ!
+<kavpaṅ.144> siәp na @lancәk{@nsk: la(n)cәk} ditaña,
+<kavpaṅ.145> da na laki @aṅgәs{@nsk: a(ṅ)gәs} ñaho.
+<kavpaṅ.146> lәpus di paṅṅәsi apus,
+<kavpaṅ.147> lәpas di tata @pustaka{@nsk: [a]pustaka}.
+<kavpaṅ.148> vәruh dina siksakuruṅ,
+<kavpaṅ.149> bisa dina siksakandaṅ.
+<kavpaṅ.150> livat tina carek mәda,
+<kavpaṅ.151> muṅkur ti darma pitutur,
+<kavpaṅ.152> lәvih ti bәnaṅ pasiәp.”
+<kavpaṅ.153> “bәnaṅ hatur ti kaguna,
+<kavpaṅ.154> bәnaṅ naña ti guriaṅ.
+<kavpaṅ.155> ti /7v/ saṅ maha muga luar,
+<kavpaṅ.156> ñaleket ka gunuṅ gәde,
+<kavpaṅ.157> @ñidaṅ{@nsk: ñi(n)daṅ} @tәka{@nsk: [ә] tәka} gunuṅ @gәde{@nsk: (gә)de}.
+<kavpaṅ.158> panaitan @kabuyutan{@nsk: [әsi pi]kabuyutan},
+<kavpaṅ.159> susuhunan hujuṅkulan,
+<kavpaṅ.160> akiiṅ bagavat saṅ @sri{@nsk: [ga] sri}.
+<kavpaṅ.161> @bәnaṅiṅ{@nsk: bәnaṅ[iṅ]} naña tilu lave,
+<kavpaṅ.162> ti nu seda ti patala.
+<kavpaṅ.163> @bәnaṅiṅ{@nsk: bәnaṅ[h]iṅ} ñiar ti jampaṅ.
+<kavpaṅ.164> bәnaṅiṅ ti pulasari.
+<kavpaṅ.165> bәnaṅiṅ ti jakahbarat.
+<kavpaṅ.166> ti/6r/ raju ka @siṅaraja{@nsk: [ki] siṅaraja}.
+<kavpaṅ.167> eboh ta @aiṅ{@nsk: ai(ṅ)} magahan.
+<kavpaṅ.168> sugan sia hamo @ñaho{@nsk: ñah(o)}.
+<kavpaṅ.169> sakini na pisahurәn.”
+<kavpaṅ.170> ahuṅ guru pak samapun.
+<kavpaṅ.171> pamuhunan kami ñaur.
+<kavpaṅ.172> paksaṅkana kami ñabda.
+<kavpaṅ.173> saksi ka bәraṅ ka pәtiṅ,
+<kavpaṅ.174> ka jagat bvana @lamba{@nsk: lam[a]ba},
+<kavpaṅ.175> mihapekәn raga kami.
+<kavpaṅ.176> kami dek sadu ñarita.
+<kavpaṅ.177> carita para /6v/ devata,
+<kavpaṅ.178> ti sorga niṅ kahyaṅan.
+<kavpaṅ.179> natakәn aksari kalih,
+<kavpaṅ.180> ucap na rva niṅ jalma.
+<kavpaṅ.181> ayәna әsi bvana,
+<kavpaṅ.182> saṅkan jagat saṅkan rampes.
+<kavpaṅ.183> mana jagat saṅkan jajar,
+<kavpaṅ.184> @sapaṅṅadәg{@nsk: sapa[ṅ]ṅadәg} livat gavay.
+<kavpaṅ.185> ti hayu ṅucapkәn rampes,
+<kavpaṅ.186> paṅәsi na kasorgaan.
+<kavpaṅ.187> adiiṅ na @saṅhyaṅ{@nsk: saṅhya(ṅ)} @sri{@nsk: (sri)},
+<kavpaṅ.188> la/11r/mun rәjәṅ pahi suka,
+<kavpaṅ.189> @dәṅ{@nsk: dә(ṅ)} pvah naga nagini,
+<kavpaṅ.190> @dәṅ{@nsk: dә(ṅ)} pvah sәlaṅ saṅgini,
+<kavpaṅ.191> @dәṅ{@nsk: dә(ṅ)} aksari kahyaṅan.
+<kavpaṅ.192> lamun @rәjәṅ{@nsk: rәjә(ṅ)} pahi suka,
+<kavpaṅ.193> әsian bvana itu.
+<kavpaṅ.194> kena heman sugan heman,
+<kavpaṅ.195> @heman{@nsk: (heman)} ku @na{@nsk: (na)} gavay aiṅ.
+<kavpaṅ.196> @ambuṅ{@nsk: a(m)buṅ} na @ha(n)tә{@nsk: ha(n)tә} әsina.
+<kavpaṅ.197> uvuṅ-uvuṅ tanpa vastu.
+<kavpaṅ.198> avaṅ-avaṅ tanpa teja.
+<kavpaṅ.199> tanpa rava /11v/mega itu.
+<kavpaṅ.200> tәṅ di maṅguṅ tәṅ di @handap{@nsk: ha(n)dap}.
+<kavpaṅ.201> @ṅagaṅca{@nsk: ṅaga(n)ca} tanpa kahanan.
+<kavpaṅ.202> ṅaranna vastu muliya.
+<kavpaṅ.203> dipajar na saṅkan heraṅ,
+<kavpaṅ.204> @ha(n)tә{@nsk: ha(n)tә} acan diәsian.”
+<kavpaṅ.205> saurna aci devata,
+<kavpaṅ.206> “@adiiṅ{@nsk: adii(ṅ)} na @saṅhyaṅ{@nsk: saṅhya(ṅ)} @sri{@nsk: (sri)}.
+<kavpaṅ.207> sәvәiṅ muliya ati,
+<kavpaṅ.208> @dәṅ{@nsk: dә(ṅ)} nu @naṅganan{@nsk: naṅgana(n)} di laraṅ.
+<kavpaṅ.209> saurna para devata,
+<kavpaṅ.210> sapaṅәsi kasorgaan,
+<kavpaṅ.211> uraṅ murba ka ma/10r/dia!”
+<kavpaṅ.212> әsian bvana @mirah{@nsk: mi(rah)}!
+<kavpaṅ.213> sakala turun ka gunuṅ,
+<kavpaṅ.214> @gunuṅ{@nsk: (gunuṅ)} sri @jantra{@nsk: ja(n)tra} @mandala{@nsk: ma(n)dala},
+<kavpaṅ.215> @mandala{@nsk: (mandala)} kañovanaan.
+<kavpaṅ.216> husir gunuṅ jayavarna,
+<kavpaṅ.217> ayәna әkәr @nu{@nsk: (nu)} hәbәl.
+<kavpaṅ.218> mana @para{@nsk: [te] para} devata kalih
+<kavpaṅ.219> di sorganiṅ kahiyaṅan.
+<kavpaṅ.220> pahi sri samadaya turun,
+<kavpaṅ.221> murba ka madiapada.
+<kavpaṅ.222> kena ulah hәbәl @tәiṅ{@nsk: tәi(ṅ)},
+<kavpaṅ.223> gәra uraṅ pulaṅ dә /10v/i!”
+<kavpaṅ.224> @nembal{@nsk: ne(m)bal} na aci devata,
+<kavpaṅ.225> “adiiṅ sumaṅәr tәiṅ!
+<kavpaṅ.226> @samapun{@nsk: samapu(n)} karajәn tәiṅ,
+<kavpaṅ.227> @lamun{@nsk: [sriya] lamun} dek hәbәl di @handap{@nsk: ha(n)dap}.”
+<kavpaṅ.228> pahi sriya samadaya:
+<kavpaṅ.229> pvahaci leṅgaṅ manik,
+<kavpaṅ.230> dәṅ pvahaci leṅgaṅ bvana,
+<kavpaṅ.231> @pvah{@nsk: pva(h)} sari devanata,
+<kavpaṅ.232> @pvah{@nsk: pva(h)} @mayaṅ{@nsk: maya(ṅ)} kahiyaṅan,
+<kavpaṅ.233> sri seda @tunjuṅ{@nsk: tu(n)juṅ} devata,
+<kavpaṅ.234> dәṅәn @pvah{@nsk: pva(h)} natasari,
+<kavpaṅ.235> maya kә buvana asih,
+<kavpaṅ.236> @asih-asihniṅ{@nsk: (asih-) a/9r/sihniṅ} devata.
+<kavpaṅ.237> @pvah{@nsk: pva(h)} @mayaṅ{@nsk: maya(ṅ)} asih seda,
+<kavpaṅ.238> bәtari mayaṅ karuna,
+<kavpaṅ.239> @dәṅ{@nsk: dә(ṅ)} bәtari cekas manik,
+<kavpaṅ.240> dәṅәn pvah paramuta.
+<kavpaṅ.241> sri seda @tunjuṅ{@nsk: tu(n)juṅ} devata,
+<kavpaṅ.242> dәṅәn @pvah{@nsk: pva(h)} sari manik.
+<kavpaṅ.243> pvahaci @mayaṅ{@nsk: maya(ṅ)} adiṅ,
+<kavpaṅ.244> pvah sari mayuṅ @adiṅ{@nsk: adi(ṅ)},
+<kavpaṅ.245> dәṅ bәtari aci hәniṅ.
+<kavpaṅ.246> @pvah{@nsk: pva(h)} sari aci laraṅ,
+<kavpaṅ.247> @pvah{@nsk: pva(h)} sari aci mirah,
+<kavpaṅ.248> @dәṅ{@nsk: dә(ṅ)} @pvah{@nsk: pva(h)} @tunjuṅ{@nsk: tu(n)juṅ} @kancana{@nsk: ka(n)cana}.
+<kavpaṅ.249> @tunjuṅ{@nsk: tu(n)juṅ} laraṅ haris @kәmbaṅ{@nsk: kә/9v/(m)baṅ},
+<kavpaṅ.250> aciniṅ mulia vaṅi,
+<kavpaṅ.251> ya nu siya mikedanan.
+<kavpaṅ.252> aksari deva kavini,
+<kavpaṅ.253> dәṅәn @pvah{@nsk: (pvah)} sari @kәmbaṅ{@nsk: kә(m)baṅ},
+<kavpaṅ.254> @dәṅ{@nsk: dә(ṅ)} bәtari sari vaṅi,
+<kavpaṅ.255> pvahaci maya kәliṅ,
+<kavpaṅ.256> batari @tunjuṅ{@nsk: tu(n)juṅ} buana,
+<kavpaṅ.257> asri-asri niṅ prәtivi,
+<kavpaṅ.258> @tunjuṅ{@nsk: tu(n)juṅ} laraṅ sari kuniṅ.
+<kavpaṅ.259> sahur @pvah{@nsk: pva(h)} @saṅhyaṅ{@nsk: (saṅ)hyaṅ} @sri{@nsk: (sri)},
+<kavpaṅ.260> “@adiiṅ{@nsk: adii(ṅ)} @aksari{@nsk: a(k)sari} kalih
+<kavpaṅ.261> menan murba ka madia
+<kavpaṅ.262> putrian uraṅ sakala.”
+<kavpaṅ.263> sahurna ma /13r/ya devata,
+<kavpaṅ.264> “menan uraṅ maṅkat sarerea,
+<kavpaṅ.265> turun tina kahiyaṅan”.
+<kavpaṅ.266> ñaur @pvah{@nsk: (pvah)} saṅhyaṅ sri,
+<kavpaṅ.267> “dәkәt @ha(n)tә{@nsk: ha(n)tә} nu kadiri
+<kavpaṅ.268> ti sorganiṅ kahiaṅan,
+<kavpaṅ.269> turun ka gunuṅ sri jantri,
+<kavpaṅ.270> mandala kañovanaan,
+<kavpaṅ.271> aci gunuṅ jayavarna,
+<kavpaṅ.272> turun ka aci prәtivi.”
+<kavpaṅ.273> pahi nu turun tumuvuh,
+<kavpaṅ.274> ka tәgal sikahuripan. /13v/
+<kavpaṅ.275> @iṅkәn{@nsk: i(ṅ)kәn} mipuluṅkәn iña,
+<kavpaṅ.276> para devata sagala,
+<kavpaṅ.277> dibava nu maṅcakarma,
+<kavpaṅ.278> @diambu{@nsk: dia(m)bu} diasih raja,
+<kavpaṅ.279> ti ambuiṅ jati tan hana.
+<kavpaṅ.280> aci para @atma{@nsk: at(ma)} diña,
+<kavpaṅ.281> nu @kumpul{@nsk: ku(m)pul} maṅpuluṅ suka,
+<kavpaṅ.282> @pahi{@nsk: (pahi)} siya sarerea.
+<kavpaṅ.283> saurna devata laraṅ
+<kavpaṅ.284> nu ṅadulur kagәlisan.
+<kavpaṅ.285> ṅucap aci @tunjuṅ{@nsk: tu(n)juṅ} putih
+<kavpaṅ.286> sapaṅadәg puhun kapas.
+<kavpaṅ.287> aya /12r/nu di bәti manik,
+<kavpaṅ.288> matәk nu di akar kavat,
+<kavpaṅ.289> matәk na di tulaṅ bәsi,
+<kavpaṅ.290> midaun salaka @mənur{@nsk: mәnu(r)},
+<kavpaṅ.291> nu midaun luṅsir hejo,
+<kavpaṅ.292> әkәr nu @dikәmbaṅ{@nsk: dikәm(b)aṅ} mirah.
+<kavpaṅ.293> pvahaci @tunjuṅ{@nsk: tu(n)juṅ} @putih{@nsk: puti(h) [tu]}
+<kavpaṅ.294> devatana kәmbaṅ kapas.
+<kavpaṅ.295> pvahaci @tunjuṅ{@nsk: tu(n)juṅ} manik
+<kavpaṅ.296> devatana bvah kapas.
+<kavpaṅ.297> pvahaci daranan manik
+<kavpaṅ.298> ṅaran basana dipoe.
+<kavpaṅ.299> ṅarana @saṅhyaṅ{@nsk: saṅhya(ṅ)} @jipaṅ{@nsk: ji/12v/paṅ}
+<kavpaṅ.300> ṅaran devatana kapuk.
+<kavpaṅ.301> @pvah{@nsk: pva(h)} sri pijәyah jati
+<kavpaṅ.302> saṅ dravada saṅ vrәdin
+<kavpaṅ.303> ṅaran devata jujutan.
+<kavpaṅ.304> @pvah{@nsk: pva(h)} sri kovari jati
+<kavpaṅ.305> @dәṅ{@nsk: dә(ṅ)} aksari @giliṅṅan{@nsk: gili[ṅ]ṅan} jati
+<kavpaṅ.306> ṅaran devata @hindәsan{@nsk: hi(n)dәsan}.
+<kavpaṅ.307> pvahaci sri seda @maṅrincik{@nsk: maṅri(n)cik}
+<kavpaṅ.308> ṅaran @{@nsk: [ṅaran]} әkәr di @hindәsan{@nsk: hi(n)dәsan}.
+<kavpaṅ.309> pvahaci timbul manik
+<kavpaṅ.310> sari maṅyupu /14r/k putih
+<kavpaṅ.311> @{@nsk: [ṅaran]} pvahaci maya metar
+<kavpaṅ.312> ṅaran devatana @pәtteṅ{@nsk: pә[t]teṅ}.
+<kavpaṅ.313> pvahaci @saṅ{@nsk: [si] saṅ} kuna jati
+<kavpaṅ.314> ṅaran basana dipәteṅ.
+<kavpaṅ.315> @pvah{@nsk: pva(h)} sri @pәniṅṅan{@nsk: pәni[ṅ]ṅan} jati
+<kavpaṅ.316> ṅaran devatana @kincir{@nsk: ki(n)cir}.
+<kavpaṅ.317> aksari maṅadәg jati
+<kavpaṅ.318> devatana @әntәṅ{@nsk: ә(n)tәṅ} @kincir{@nsk: ki(n)cir}.
+<kavpaṅ.319> aksari @giliṅṅan{@nsk: gili[ṅ]ṅan} manik
+<kavpaṅ.320> ṅaran basana digeleṅ.
+<kavpaṅ.321> @pvah{@nsk: pva(h)} sri taliṅa jati/14v/
+<kavpaṅ.322> devatana cәli @lambiṅ{@nsk: la(m)biṅ}.
+<kavpaṅ.323> bәtari tandiṅan jati,
+<kavpaṅ.324> devata mayaṅ sariniṅ devata laraṅ
+<kavpaṅ.325> eta devatana kisi.
+<kavpaṅ.326> aksari deva carita,
+<kavpaṅ.327> kumpul putih sri maṅlayaṅ
+<kavpaṅ.328> @әntәp{@nsk: ә(n)tәp} dina raṅraṅ lima
+<kavpaṅ.329> ṅaran devata hasivuṅ.
+<kavpaṅ.330> pvahaci citamanik,
+<kavpaṅ.331> @pvahaci{@nsk: pva(haci)} @tunjuṅ{@nsk: tu(n)juṅ} putih,
+<kavpaṅ.332> aksari maya sri sәda,
+<kavpaṅ.333> pvahaci naga vana
+<kavpaṅ.334> ṅaran /15r/devatana @kanteh{@nsk: ka(n)teh}.
+<kavpaṅ.335> aksari tunjuṅan jati,
+<kavpaṅ.336> @pvah{@nsk: pva(h)} sri naga @sampayan{@nsk: sa(m)payan},
+<kavpaṅ.337> dәṅәn pvah @maung{@nsk: mau(ṅ)} laraṅ,
+<kavpaṅ.338> ṅaran devata layәtan.
+<kavpaṅ.339> bәtari kenceṅan jati
+<kavpaṅ.340> aksari manik @{@nsk: [manik]} sari
+<kavpaṅ.341> ṅaran basana dilavayan.
+<kavpaṅ.342> pvahaci naga @numpi{@nsk: nu(m)pi}
+<kavpaṅ.343> devatana bәnaṅ mәndac.
+<kavpaṅ.344> pvahaci @citamanik{@nsk: (ci)ta manik}
+<kavpaṅ.345> dәṅ aksari cita /15v/putih
+<kavpaṅ.346> nu ṅasuh na @kanteh{@nsk: ka(n)teh} bodas.
+<kavpaṅ.347> pvahaci @tunjuṅ{@nsk: tu(n)juṅ} @maṅbaṅ{@nsk: ma(ṅ)baṅ},
+<kavpaṅ.348> pvahaci maṅbaṅ siyaṅ,
+<kavpaṅ.349> dәṅ bәtari mabar sari,
+<kavpaṅ.350> nu @ṅasuhan{@nsk: ṅasu[h]han} @kanteh{@nsk: ka(n)teh} bәrәm.
+<kavpaṅ.351> aksari sahipәs jati,
+<kavpaṅ.352> pvahaci nila kәliṅ,
+<kavpaṅ.353> aksari @kәmbaṅ{@nsk: kәm(baṅ)} visesa,
+<kavpaṅ.354> nu @ṅasuhan{@nsk: ṅasu[h]han} @kanteh{@nsk: ka(n)teh} hidәṅ.
+<kavpaṅ.355> pvahaci @tunjuṅ{@nsk: tu(n)juṅ} kuniṅ,
+<kavpaṅ.356> nu @ṅasuhan{@nsk: ṅasu[h]han} @kanteh{@nsk: ka(n)teh} koneṅ.
+<kavpaṅ.357> dәṅ aksari cәn/16r/tә rupa,
+<kavpaṅ.358> pvahaci @cida{@nsk: cida sa[r]ri} sari,
+<kavpaṅ.359> nu ṅasuh na @kanteh{@nsk: ka(n)teh} tәrәs.
+<kavpaṅ.360> @dәṅ{@nsk: dә(ṅ)} bәtari @tunjuṅ{@nsk: tu(n)juṅ} biru
+<kavpaṅ.361> nu @ṅasuhan{@nsk: ṅasu[h]han} @kanteh{@nsk: ka(n)teh} biru.
+<kavpaṅ.362> pvahaci sri bamaya,
+<kavpaṅ.363> pvahaci sarba @endah{@nsk: e(n)dah},
+<kavpaṅ.364> pvahaci sarba laraṅ
+<kavpaṅ.365> nu ṅasuh na @kanteh{@nsk: ka(n)teh} varna.
+<kavpaṅ.366> @pvah{@nsk: pva(h)} sari aci @sakti{@nsk: sak[a]ti}
+<kavpaṅ.367> nu ṅasuh na @kanteh{@nsk: ka(n)teh} tuvar .
+<kavpaṅ.368> bәtari pameres jati
+<kavpaṅ.369> eta devatana sikat.
+<kavpaṅ.370> bәtari /16v/kәcәlan jati
+<kavpaṅ.371> ṅaran basana disikat.
+<kavpaṅ.372> pvahaci maṅbaṅ desa
+<kavpaṅ.373> aksari @sampayan{@nsk: sa(m)payan} jati
+<kavpaṅ.374> ṅaran basana dipәntaṅ.
+<kavpaṅ.375> @pvah{@nsk: pva(h)} asri maṅbaṅ bvana,
+<kavpaṅ.376> aksari @pәniṅṅan{@nsk: pәni[ṅ]ṅan} jati
+<kavpaṅ.377> @ṅaran{@nsk: (ṅaran)} devatana @undar{@nsk: u(n)dar [adir]}.
+<kavpaṅ.378> @pvah{@nsk: pva(h)} sri sidәg jati
+<kavpaṅ.379> ṅaran devata ulakan.
+<kavpaṅ.380> dәṅ bәtari maṅbaṅ desa
+<kavpaṅ.381> aksari vidadasana
+<kavpaṅ.382> @{@nsk: [ṅaran]} deva/17r/ tana pihanean.
+<kavpaṅ.383> @pvah{@nsk: pva(h)} sri maṅadәg jati
+<kavpaṅ.384> ṅaran laki pihanean.
+<kavpaṅ.385> pvahaci riṅgit sari,
+<kavpaṅ.386> @pvah{@nsk: pva(h)} maya aci desa,
+<kavpaṅ.387> maya @sariniṅ{@nsk: sarini(ṅ)} bvana,
+<kavpaṅ.388> dәṅ aksari maya reka
+<kavpaṅ.389> devata na bәnaṅ ṅulur.
+<kavpaṅ.390> pvah aci heno raja ,
+<kavpaṅ.391> @ṅaran{@nsk: (ṅaran)} devatana savuṅ,
+<kavpaṅ.392> ṅaranna di kahiyaṅan.
+<kavpaṅ.393> bәtari gagana jati,
+<kavpaṅ.394> vayaṅ sariniṅ bvana,
+<kavpaṅ.395> ṅaran aciniṅ /17v/badava.
+<kavpaṅ.396> @muṅgu{@nsk: muṅ(gu)} ka @pvah{@nsk: pva(h)} sari aci,
+<kavpaṅ.397> nu ṅәyәk na luṅsir hejo,
+<kavpaṅ.398> kabuyutan nagapila,
+<kavpaṅ.399> sәvә saṅ rәsik @pandita{@nsk: pa(n)dita}.
+<kavpaṅ.400> @pvah{@nsk: pva(h)} sri aci visesa,
+<kavpaṅ.401> nu ṅәyәk na @luṅsir{@nsk: luṅ(sir)} koneṅ,
+<kavpaṅ.402> kabuyutan nagavilәt,
+<kavpaṅ.403> sәvә bәtari prәtivi.
+<kavpaṅ.404> @pvah{@nsk: (pvah)} sri sari aci rupu,
+<kavpaṅ.405> nu ṅәyәk @na{@nsk: (na)} luṅsir varna,
+<kavpaṅ.406> @kabuyutan{@nsk: [na] kabuyutan} nagago/18r/(tra?),
+<kavpaṅ.407> sәvә putra hyaṅ bayu,
+<kavpaṅ.408> ṅanna di nu taṅan @kenca{@nsk: [ka] ke(n)ca}.
+<kavpaṅ.409> pvah aci cita manik,
+<kavpaṅ.410> @sәvә{@nsk: (sәvә)} saṅhyaṅ sri,
+<kavpaṅ.411> duaan @sapilancәkan{@nsk: sapila(n)cәkan},
+<kavpaṅ.412> pahi gәlis undahagi,
+<kavpaṅ.413> hapitan karavaleya.
+<kavpaṅ.414> @pvahaci{@nsk: (pvah aci)} cita @ha(n)tә{@nsk: ha(n)tә},
+<kavpaṅ.415> muṅgu di sunia laraṅ.
+<kavpaṅ.416> prәtivi hurip jati
+<kavpaṅ.417> @nu{@nsk: (nu)} muṅgu @dinu{@nsk: (di nu)} molah (?).
+<kavpaṅ.418> @pvah{@nsk: pva(h)} prәtivi @meṅәt{@nsk: meṅә(t)} jati
+<kavpaṅ.419> muṅguviṅ cәli.
+<kavpaṅ.420> @pvah{@nsk: pva(h)} prәtivi/18v/paminәṅ jati,
+<kavpaṅ.421> ṅaran galegeran.
+<kavpaṅ.422> @pvah{@nsk: (pvah?)}
+<kavpaṅ.423> @devatana{@nsk: devata(na)} sumbi luput.
+<kavpaṅ.424> @pvahaci{@nsk: (pvah aci)} naga viru,
+<kavpaṅ.425> ṅaran devatana hapit.
+<kavpaṅ.426> bәtari masaṅga jati
+<kavpaṅ.427> devatana pareredan.
+<kavpaṅ.428> @pvah{@nsk: pva(h)} sri sarampeh @jati{@nsk: [sri] jati},
+<kavpaṅ.429> ṅaran devata @paṅulas{@nsk: (pa)ṅulas}.
+<kavpaṅ.430> @pvahaci{@nsk: (pvah aci)} @cuuh{@nsk: cuu(h)} ibun,
+<kavpaṅ.431> nu @muṅgu{@nsk: mu(ṅ)gu} di tuṅtuṅ paṅulas.
+<kavpaṅ.432> @pvah{@nsk: pva(h)} sri naga @gegentar{@nsk: gege(n)tar}
+<kavpaṅ.433> ṅaran devatana @sumbi{@nsk: (sum)bi}.
+<kavpaṅ.434> @pvah{@nsk: [jәṅ] pva(h)} harәnaṅ ha /19r/rәniṅ,
+<kavpaṅ.435> dәṅ bәtari leṅgaṅ manik,
+<kavpaṅ.436> nu @muṅgu{@nsk: mu(ṅ)gu} di nu ṅәyәk.
+<kavpaṅ.437> ña alam para devata
+<kavpaṅ.438> ti sorga niṅ kahiyaṅan
+<kavpaṅ.439> pakәn rampes kagunaan.
+<kavpaṅ.440> @pvah{@nsk: pva(h)} sri aci visesa
+<kavpaṅ.441> nu ṅәyәk na @luṅsir{@nsk: lu(ṅ)sir} @putih{@nsk: puti(h)},
+<kavpaṅ.442> kabuyutan @dugalendra{@nsk: dugale(n)dra},
+<kavpaṅ.443> sәvә nu sia di lәmah.
+<kavpaṅ.444> @pvah{@nsk: pva(h)} sari aci mirah,
+<kavpaṅ.445> nu ṅәyәk na @luṅsir{@nsk: lu(ṅ)sir} bәrәm
+<kavpaṅ.446> kabuyutan naga maṅbaṅ
+<kavpaṅ.447> sәvә @saṅ{@nsk: sa(ṅ)}/19v/ prәtivi.
+<kavpaṅ.448> @aci{@nsk: [ya vayaṅ] aci} devata balabar,
+<kavpaṅ.449> devatana pihaneyan.
+<kavpaṅ.450> pvahaci manik sari,
+<kavpaṅ.451> @pvahaci{@nsk: (pvah)aci} sari devata,
+<kavpaṅ.452> @dәṅ{@nsk: dә(ṅ)} aksari maya @hibar{@nsk: hiba(r)},
+<kavpaṅ.453> sariniṅ devata bvana,
+<kavpaṅ.454> devatana @paravantәn{@nsk: parava(n)tәn}.
+<kavpaṅ.455> @dәṅ{@nsk: dә(ṅ)} aksari banan sakti
+<kavpaṅ.456> @{@nsk: [pvah asari]}
+<kavpaṅ.457> @ṅaran{@nsk: (ṅaran)} devatana kukus.
+<kavpaṅ.458> aksari mutaya jati,
+<kavpaṅ.459> pvahaci naga sumara, /21v/
+<kavpaṅ.460> dәṅ pvah naga kumpulan
+<kavpaṅ.461> devatana pisәrәṅan.
+<kavpaṅ.462> pvahaci malavadiṅ
+<kavpaṅ.463> taṅkah vaya di bvana
+<kavpaṅ.464> ṅaran devata @loroggan{@nsk: loro[g]gan}.
+<kavpaṅ.465> @dәṅ{@nsk: dә(ṅ)} bәtari @tunjuṅ{@nsk: tu(n)juṅ} manik
+<kavpaṅ.466> ṅaran basana dibuka.
+<kavpaṅ.467> @pvah{@nsk: pva(h)} sri naga maruvay
+<kavpaṅ.468> ṅaran basana @nәndәn{@nsk: nә(n)dәn}
+<kavpaṅ.469> bәnaṅ ṅaliyar.
+<kavpaṅ.470> @pvah{@nsk: pva(h)} sri naga laṅgusar
+<kavpaṅ.471> ṅaran devatana tinun.
+<kavpaṅ.472> aksari naga @dadampar{@nsk: dada(m)par}
+<kavpaṅ.473> ṅa /21r/ ran devatana caor .
+<kavpaṅ.474> @pvah{@nsk: pva(h)} sri naga @lәnditan{@nsk: lә(n)ditan}
+<kavpaṅ.475> ṅaran devatana pakan.
+<kavpaṅ.476> @pvah{@nsk: pva(h)} sri naga mapvaday
+<kavpaṅ.477> ṅaran devatana @tiṅkәs{@nsk: ti(ṅ)kәs} @kədallan{@nsk: kәda[l]lan}.
+<kavpaṅ.478> @pvah{@nsk: pva(h)} sri naga pavilәt
+<kavpaṅ.479> muṅgu dina tali caor
+<kavpaṅ.480> puputra nama pra(?)
+<kavpaṅ.481> muṅgu dodogoṅ tovaan.
+<kavpaṅ.482> @pvah{@nsk: pva(h)} sri naga maṅguliṅ
+<kavpaṅ.483> ṅaran devata lim/20v/buhan.
+<kavpaṅ.484> aksari naga @maṅṅi{@nsk: ma[ṅ]ṅi(?)}
+<kavpaṅ.485> ṅaran devata @jiṅjiṅṅan{@nsk: jiṅji[ṅ]ṅan}.
+<kavpaṅ.486> @pvah{@nsk: pva(h)} sri saṅ suvar jati
+<kavpaṅ.487> ṅaran devatana karap.
+<kavpaṅ.488> @pvah{@nsk: pva(h)} sri naga @laṅsaran{@nsk: laṅsa[r]ran}
+<kavpaṅ.489> ṅaran devatana @kenceh{@nsk: ke(n)ceh}.
+<kavpaṅ.490> @pvah{@nsk: pva(h)} sri naga @susupan{@nsk: susu[p]pan}
+<kavpaṅ.491> ṅaran devatana pakan.
+<kavpaṅ.492> @pvah{@nsk: pva(h)} sri naga marәdaya
+<kavpaṅ.493> ṅaran devatana @tiṅkәs{@nsk: ti(ṅ)kәs}.
+<kavpaṅ.494> aksari / 20r/ dәdәg @pvah{@nsk: pva(h)} heraṅ tinәṅ,
+<kavpaṅ.495> diṅaran kaprәtiviyan,
+<kavpaṅ.496> tan @kahidәp{@nsk: (ka)hidәp} tan katinәṅ,
+<kavpaṅ.497> tan karasa @tan{@nsk: (tan)} karaṅkul,
+<kavpaṅ.498> saṅ varma kaprәtivian,
+<kavpaṅ.499> diṅaran jatiniskala
+<kavpaṅ.500> tan kәna ku @deneṅ{@nsk: dene(ṅ)} tujuh.
+<kavpaṅ.501> @pvah{@nsk: pva(h)} @pribanan{@nsk: pribana(n)}
+<kavpaṅ.502> @muṅgu{@nsk: mu(ṅ)gu} @di{@nsk: (di?)}
+<kavpaṅ.503> dәṅәn @hyaṅ{@nsk: hya(ṅ)} prәtivi,
+<kavpaṅ.504> dәdәg laṅgәṅ maṅadәg tulaṅgәṅ.
+<kavpaṅ.505> @pvah{@nsk: pva(h)} prәtivi @hindit{@nsk: hi(n)dit} jati
+<kavpaṅ.506> @muṅgu{@nsk: mu(ṅ)gu} di /22v/ sadi.
+<kavpaṅ.507> @pvah{@nsk: pva(h)} sri prәtivi muliya laraṅ,
+<kavpaṅ.508> @muṅgu{@nsk: mu(ṅ)gu} dina kajatian.
+<kavpaṅ.509> dipilәvih kamutiyagi,
+<kavpaṅ.510> @laraṅan{@nsk: laraṅ[ṅ]an} na indaṅ-indaṅ.
+<kavpaṅ.511> migogoman hulanjar @endah{@nsk: e(n)dah},
+<kavpaṅ.512> kaneneh cavene rampes,
+<kavpaṅ.513> katuhuan na @hulanjar{@nsk: hula(n)jar},
+<kavpaṅ.514> @pajar{@nsk: dipa[ṅ]jar} kacavenean,
+<kavpaṅ.515> sañarah ku eve @randa{@nsk: ra(n)da}.
+<kavpaṅ.516> pikavihәn bvat ṅәyәk,
+<kavpaṅ.517> pakәn @rampes{@nsk: ra(m)pes} ka/22r/gunaan,
+<kavpaṅ.518> pamali ṅavih ṅacavaṅ.
+<kavpaṅ.519> ña eta taṅgәlanana.
+<kavpaṅ.520> @pvah{@nsk: pva(h)} prәtivi @tamba{@nsk: ta(m)ba} kanda
+<kavpaṅ.521> @muṅgu{@nsk: mu(ṅ)gu} dina ruva uraṅ.
+<kavpaṅ.522> @pvah{@nsk: pva(h)} prәtivi dasar jati
+<kavpaṅ.523> nu @muṅgu{@nsk: mu(ṅ)gu} di @dampal{@nsk: da(m)pal} suku.
+<kavpaṅ.524> @pvah{@nsk: pva(h)} prәtivi (?)
+<kavpaṅ.525> nu @muṅgu{@nsk: mu(ṅ)gu} dina cisusu.
+<kavpaṅ.526> @pvah{@nsk: (pvah)} prәtivi yuga bvana
+<kavpaṅ.527> nu @muṅgu{@nsk: mu(ṅ)gu} di pianakan ti katuhu.
+<kavpaṅ.528> @pvah{@nsk: pva(h)} prәtivi yuga @akasa{@nsk: aka[s]sa}
+<kavpaṅ.529> nu mugu di pianakan ti/ 23v/@kenca{@nsk: ke(n)ca}.
+<kavpaṅ.530> @pvah{@nsk: pva(h)} prәtivi mutiya cita
+<kavpaṅ.531> nu @muṅgu{@nsk: mu(ṅ)gu} @dina{@nsk: di(na)} @pusuh{@nsk: (pu)pusuh}.
+<kavpaṅ.532> @pvah{@nsk: pva(h)} prәtivi mutiya,
+<kavpaṅ.533> ja tuduh eten kalis ku deneṅ,
+<kavpaṅ.534> @aṅṅiṅ{@nsk: a[ṅ]ṅiṅ} kavәkasniṅ saca.
+<kavpaṅ.535> ṅabadi vәkasniṅ carek,
+<kavpaṅ.536> dina bәnaṅ sadakala
+<kavpaṅ.537> lәvih luput ti sakitu.
+<kavpaṅ.538> lamun laksana dilaki,
+<kavpaṅ.539> tә buruṅ ruvat na mala,
+<kavpaṅ.540> @rәṅәkәnnәn{@nsk: rәṅәkә[n]nәn} uraṅ opoy,
+<kavpaṅ.541> ṅaranna ka/23r/prәtiviyan.
+<kavpaṅ.542> acina kamuliyaan,
+<kavpaṅ.543> samaṅsa di nusa cina,
+<kavpaṅ.544> eta kәti malavadiṅ,
+<kavpaṅ.545> dәṅәn @hyaṅ{@nsk: hya(ṅ)} @lekavati{@nsk: le(ka)vati},
+<kavpaṅ.546> kahanan saṅ @jayaleva{@nsk: jayale(va)},
+<kavpaṅ.547> dipuncakan @ratna{@nsk: ra(t)na} @gading{@nsk: gadi(ṅ)},
+<kavpaṅ.548> @vindu{@nsk: vin(d)u} baṅgala di laraṅ.
+<kavpaṅ.549> @pvah{@nsk: (pvah)} prәtivi @lәṅis{@nsk: lәṅi(s)} jati
+<kavpaṅ.550> nu @muṅgu{@nsk: mu(ṅ)gu} di tuṅtuṅ @rambut{@nsk: ra(m)but}.
+<kavpaṅ.551> @pvah{@nsk: pva(h)} prәtivi @harempoy{@nsk: hare(m)poy} jati
+<kavpaṅ.552> nu @muṅgu{@nsk: mu(ṅ)gu} dina raunan.
+<kavpaṅ.553> @pvah{@nsk: pva(h)} prәtivi hirәt jati
+<kavpaṅ.554> nu @muṅgu{@nsk: mu(ṅ)gu} di hәniṅ panon. /24v/
+<kavpaṅ.555> @pvah{@nsk: pva(h)} prәtivi hәnis @jati{@nsk: [ra] jati}
+<kavpaṅ.556> nu @muṅgu{@nsk: mu(ṅ)gu} di bivir panon.
+<kavpaṅ.557> әkәr @siksaan{@nsk: si(k)saan} pavestri
+<kavpaṅ.558> @pvah{@nsk: pva(h)} prәtivi mukadandana
+<kavpaṅ.559> nu @muṅgu{@nsk: mu(ṅ)gu} @dina{@nsk: di(na)} mantuṅan.
+<kavpaṅ.560> aṅәn pun mo diajaran.
+<kavpaṅ.561> bisa mәbәr @malam-malam{@nsk: (m)alәm-malәm}.
+<kavpaṅ.562> bisa @ñoṅket{@nsk: ño(ṅ)ket} @poek-poek{@nsk: poe(k)-poek}.
+<kavpaṅ.563> ṅanteh tuvar ñaṅkuduan.
+<kavpaṅ.564> ṅajiṅga ṅabәrәm ṅora.
+<kavpaṅ.565> ṅadadu dәṅ ṅәmbaṅ gaduṅ.
+<kavpaṅ.566> cuuk /24r/raṅgi hidәṅ nәlәm.
+<kavpaṅ.567> @{@nsk: [maṅ]} ṅadәlә taṅan katuhu.
+<kavpaṅ.568> maṅka @ñantәpet{@nsk: [ñәrәp] ñantәpet} di hate.
+<kavpaṅ.569> maṅka ñurup di hampәru.
+<kavpaṅ.570> @maṅka{@nsk: ma(ṅ)ka} sideṅdaṅ di bayah.
+<kavpaṅ.571> naṅtuṅ di tuṅtuṅniṅ heraṅ.
+<kavpaṅ.572> ñavan tan mrat.
+<kavpaṅ.573> panigavay @nurat{@nsk: (nu)rat} @sugan{@nsk: suga(n)} @katenjo{@nsk: kate(njo)}.
+<kavpaṅ.574> ku ṅavigәn ku na pamake @lampahe{@nsk: lampa[ĥ]he} lumari ya titiru salampahe /25r/
+<kavpaṅ.575> kativah bukit.
+<kavpaṅ.576> kade titip @maṅko{@nsk: ma(ṅ)ko} pamagah @livatah{@nsk: [m] livatah} @mәnaṅ{@nsk: (mә)naṅ}
+<kavpaṅ.577> ne niba @den{@nsk: de(n)} gamәl.
+<kavpaṅ.578> parti @rahayu{@nsk: raha(yu)} @jaran{@nsk: jara(n)} sarira. /25v/
