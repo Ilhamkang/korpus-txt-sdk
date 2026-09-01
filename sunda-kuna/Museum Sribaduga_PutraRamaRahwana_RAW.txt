@@ -1,27 +1,39 @@
-Kisah Putәra Rama dan Rawana1
+# === METADATA NASKAH ===
+# ID          : PRR
+# Judul       : Para Putra Rama & RAhwana
+# Koleksi     : Museum Negeri Sribaduga Jawa Barat 
+# Sumber      : -
+# Bahasa      : Sunda Kuna
+# Aksara      : Sunda Kuna
+# Pengolah    : Ilham Nurwansah
+# Transliterasi: Noorduyn & Teeuw (2006)
+# Pembaruan    : 2026-09-01
+# === ISI TRANSKRIPSI ===
 
-1	Oṅkarana saṅtabean.	Sәmoga Yaṅ Maha Kuasa mәmaafkan.
-	Pukulun sәmbah rahayu.	Hamba bәrdoa mohon kәsәlamatan.
-	Aiṅ dek ñaksi ka bәraṅ,	Aku ‘kan bәrsaksi kәpada siaṅ,
-	aiṅ dek ñaksi ka pәtiṅ,	Aku ‘kan bәrsaksi kәpada malam,
-5	candra wulan aditia	bulan purnama dan matahari,
-	dәṅәn saṅhia(ṅ) akasa,	dәṅan saṅhiaṅ2 aṅkasa,
-	kalawan hiaṅ prәtiwi,	bәsәrta dәwi3 bumi,
-	ka batara Nagaraja,	kәpada batara4 Nagaraja,
-	ka nusia Awak Laraṅ,	kәpada yaṅ mulia Awak Laraṅ,
-10	ka luhur ka saṅ Rumuhun,	kәpada para arwah di dunia atas,
-	nusia Laraṅ di maṅguṅ.	arwah suci di kәtiṅgian.
-	Aiṅ mupulihkәn iña,	Aku ‘kan mәṅisahkan mәrәka,
-	piri-piri nu bihari,	kәturunan dahulu kala,
-	manak-manak nu bәhәla,	anak cucu mәrәka di masa silam,
-15	mәtukәn carita agәṅ,	kutunjukkan lәwat kisah aguṅ,
-	piri-piri Manondari	kәturunan Manondari,
-	manak-manak saṅ Rawana.	anak cucu saṅ5 Rawana.
-	Pupulihkәn saṅ Sombali[h],	Tәrsәbutlah saṅ Sombali,
-	sau(n)dur ti Leṅkapura.	sәkәmbaliña dari Leṅkapura.
-20	Sabuat әkәr babatur,	Pada saat sәdaṅ bәrtapa,
-	di batur di Jambu Luwuk,	di pәrtapaan Jambu Luwuk,
-	di Padeṅdoṅ Pinaṅ Co(n)doṅ,	di Padeṅdoṅ Pinaṅ Condoṅ,
+
+1	Oṅkarana saṅtabean.	
+	Pukulun sәmbah rahayu.
+	Aiṅ dek ñaksi ka bәraṅ,	
+	aiṅ dek ñaksi ka pәtiṅ,	
+5	candra wulan aditia,
+	dәṅәn @saṅhiaṅ{@em:saṅhia} akasa,	
+    dәṅan saṅhiaṅ2 aṅkasa,
+	kalawan hiaṅ prәtiwi,
+	ka batara Nagaraja,
+	ka nusia Awak Laraṅ,
+10	ka luhur ka saṅ Rumuhun,
+	nusia Laraṅ di maṅguṅ.	
+	Aiṅ mupulihkәn iña,
+	piri-piri nu bihari,
+	manak-manak nu bәhәla,
+15	mәtukәn carita agәṅ,
+	piri-piri Manondari,
+	manak-manak saṅ Rawana.
+	Pupulihkәn saṅ @Sombali{@em:sombalih},
+	@saudur{@norm:saudur} ti Leṅkapura.
+20	Sabuat әkәr babatur,
+	di batur di Jambu Luwuk,
+	di Padeṅdoṅ Pinaṅ @Condoṅ{@norm:codong},
 	di Padeṅdoṅ Pinaṅ Seraṅ,	di Padeṅdoṅ Pinaṅ Seraṅ,
 	di Sina/gar Kapoyanan,   /1r/	di Sinagar Kapoyanan,
 25	di Padarek Darma Rehe,	di Paderek Darma Rehe,
